@@ -1,0 +1,11 @@
+logs
+ssl
+wesite
+cert
+db
+packages
+priavate
+static
+static/*
+templates
+Dockerfile
